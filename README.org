@@ -1,0 +1,10 @@
+* burgled-batteries
+
+A bridge between Python and Lisp (FFI bindings, etc.)
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/pinterface/burgled-batteries.git   |
+| commit  | 8ae3815  |
+| systems | burgled-batteries |
+|---------+-------------------------------------------|
+
